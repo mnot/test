@@ -1,8 +1,6 @@
 name: WGLC Issue
-about: Working Group Last Call Issue
-title: ''
+description: Working Group Last Call Issue
 labels: wglc
-assignees: ''
 body:
   - type: markdown
     attributes:
