@@ -1,6 +1,6 @@
 name: WGLC Issue
 description: Working Group Last Call Issue
-labels: wglc
+labels: [wglc, triage]
 body:
   - type: markdown
     attributes:
