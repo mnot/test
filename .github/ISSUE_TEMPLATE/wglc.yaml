@@ -28,3 +28,6 @@ body:
         - label: You have read and understand the [IETF NOTE WELL](https://www.ietf.org/about/note-well/).
           required: true
 
+  - type: textarea
+    attributes:
+      label: "Issue Description"
