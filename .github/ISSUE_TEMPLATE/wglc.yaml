@@ -19,10 +19,11 @@ body:
         * Issues that have not yet been discussed will be evaluated on a case-by-case basis. Alternative approaches (e.g., "why didn't you do...") are presumed not to have consensus unless there is strong support for considering them.
 
   - type: checkboxes
-    description: "Before raising a Working Group Last Call issue, please confirm that:"
-    options:
-      - label: You have reviewed our [existing WLGC issues]() to assure that it is not already covered.
-        required: true
-      - label: You have read and understand the [IETF NOTE WELL](https://www.ietf.org/about/note-well/).
-        required: true
+    attributes:
+      description: "Before raising a Working Group Last Call issue, please confirm that:"
+      options:
+        - label: You have reviewed our [existing WLGC issues]() to assure that it is not already covered.
+          required: true
+        - label: You have read and understand the [IETF NOTE WELL](https://www.ietf.org/about/note-well/).
+          required: true
 
