@@ -4,9 +4,9 @@ title: ''
 labels: wglc
 assignees: ''
 body:
- - type: markdown
-   attributes:
-     value: |
+  - type: markdown
+    attributes:
+      value: |
         Working Group Last Call (WGLC) is your opportunity to raise issues against the following drafts:
 
         * [A Vocabulary For Expressing AI Usage Preferences]()
