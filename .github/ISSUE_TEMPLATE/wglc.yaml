@@ -10,20 +10,22 @@ body:
         * [A Vocabulary For Expressing AI Usage Preferences]()
         * [Associating AI Usage Preferences With Content]()
 
-        This is a consensus call, which means that any matter not raised as an issue is presumed to have consensus.
+        This is a consensus call on these documents in their whole form, which means that any matter not raised as an issue is presumed to have consensus.
 
         Please understand that:
         * Issues that are not within the scope of our charter will be closed without discussion.
-        * Likewise, issues with the charter itself -- including whether the IETF should be doing this work -- will be closed without discussion. The appropriate time to discuss such things is during chartering.
-        * Issues that have already been discussed have a presumption of consensus, but that will be confirmed if necessary. Genuinely new information is of greatest assistance when evaluating such issues.
+        * Likewise, issues with the charter itself -- including whether the IETF should be doing this work -- will be closed without discussion.
+        * Issues that have already been discussed have some presumption of consensus, but that will be confirmed if necessary. Genuinely new information is of greatest assistance when evaluating such issues.
         * Issues that have not yet been discussed will be evaluated on a case-by-case basis. Alternative approaches (e.g., "why didn't you do...") are presumed not to have consensus unless there is strong support for considering them.
+        * Issues will be triaged and similar ones combined; if you feel that some aspect of your issue is lost in this process, please bring it to the attention of the chairs.
+        * Likewise, issues that are deemed to be editorial will be reassigned to the editors and will be handled without consideration by the working group. If you feel this has been done in error, please bring it to the attention of the chairs.
 
   - type: checkboxes
     attributes:
       label: "Confirmation"
       description: "Before raising a Working Group Last Call issue, please confirm that:"
       options:
-        - label: You have reviewed our [existing WLGC issues]() to assure that it is not already covered.
+        - label: You have reviewed our [existing WLGC issues](https://github.com/ietf-wg-aipref/drafts/issues?q=state%3Aopen%20label%3Awglc) and this issue is not present there.
           required: true
         - label: You have read and understand the [IETF NOTE WELL](https://www.ietf.org/about/note-well/).
           required: true
@@ -31,3 +33,10 @@ body:
   - type: textarea
     attributes:
       label: "Issue Description"
+      required: true
+      description: "Describe the nature of the issue. If relevant, please indicate the exact part of the specifciation where the issue is, using the section number."
+
+  - type: textarea
+    attributes:
+      label: "Proposed Resolution"
+      description: "Optional. If you have a proposal for how to resolve the issue, please describe it clearly."
