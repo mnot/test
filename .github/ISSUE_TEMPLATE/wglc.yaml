@@ -33,7 +33,6 @@ body:
   - type: textarea
     attributes:
       label: "Issue Description"
-      required: true
       description: "Describe the nature of the issue. If relevant, please indicate the exact part of the specifciation where the issue is, using the section number."
 
   - type: textarea
