@@ -12,7 +12,7 @@ body:
 
         This is a consensus call on these documents in their whole form, which means that any matter not raised as an issue is presumed to have consensus.
 
-        Please understand that:
+        Issues will be triaged and handled as follows:
         * Issues that are not within the scope of our charter will be closed without discussion.
         * Likewise, issues with the charter itself -- including whether the IETF should be doing this work -- will be closed without discussion.
         * Issues that have already been discussed have some presumption of consensus, but that will be confirmed if necessary. Genuinely new information is of greatest assistance when evaluating such issues.
@@ -20,7 +20,7 @@ body:
         * Issues that are similar will be combined.
         * Issues that are deemed to be editorial will be reassigned to the editors and will be handled without further consideration by the working group.
 
-        If you feel that your issue has been resolved incorrectly, please bring this to the attention of the chairs.
+        If you feel that your issue has been triaged incorrectly, please contact the chairs.
 
   - type: checkboxes
     attributes:
