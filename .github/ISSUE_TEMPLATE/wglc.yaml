@@ -25,9 +25,9 @@ body:
       label: "Confirmation"
       description: "Before raising a Working Group Last Call issue, please confirm that:"
       options:
-        - label: You have reviewed our [existing WLGC issues](https://github.com/ietf-wg-aipref/drafts/issues?q=state%3Aopen%20label%3Awglc) and this issue is not present there.
+        - label: I have reviewed our [existing WLGC issues](https://github.com/ietf-wg-aipref/drafts/issues?q=state%3Aopen%20label%3Awglc) and this issue is not present there.
           required: true
-        - label: You have read and understand the [IETF NOTE WELL](https://www.ietf.org/about/note-well/).
+        - label: I have read and understand the [IETF NOTE WELL](https://www.ietf.org/about/note-well/).
           required: true
 
   - type: textarea
