@@ -17,8 +17,10 @@ body:
         * Likewise, issues with the charter itself -- including whether the IETF should be doing this work -- will be closed without discussion.
         * Issues that have already been discussed have some presumption of consensus, but that will be confirmed if necessary. Genuinely new information is of greatest assistance when evaluating such issues.
         * Issues that have not yet been discussed will be evaluated on a case-by-case basis. Alternative approaches (e.g., "why didn't you do...") are presumed not to have consensus unless there is strong support for considering them.
-        * Issues will be triaged and similar ones combined; if you feel that some aspect of your issue is lost in this process, please bring it to the attention of the chairs.
-        * Likewise, issues that are deemed to be editorial will be reassigned to the editors and will be handled without consideration by the working group. If you feel this has been done in error, please bring it to the attention of the chairs.
+        * Issues that are similar will be combined.
+        * Issues that are deemed to be editorial will be reassigned to the editors and will be handled without further consideration by the working group.
+
+        If you feel that your issue has been resolved incorrectly, please bring this to the attention of the chairs.
 
   - type: checkboxes
     attributes:
